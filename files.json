@@ -1,0 +1,92 @@
+[
+  {
+    "localName": "gfx/menu/loading_bar_full.png",
+    "serverName": "gfx/menu/loading_bar_full.png",
+    "checksum": "cb89e422a8346e9cdb5ca85e894646ee"
+  },
+  {
+    "localName": "gfx/menu/logging_in.png",
+    "serverName": "gfx/menu/logging_in.png",
+    "checksum": "56d76bad42cd83b087b11b3fbae5475a"
+  },
+  {
+    "localName": "xml_bin/credits.bin",
+    "serverName": "xml_bin/credits.bin",
+    "checksum": "f89dc3634a66d817d842936e49594004"
+  },
+  {
+    "localName": "audio/music/24-GJLM_Monster_01.wav",
+    "serverName": "audio/music/24-GJLM_Monster_01.wav",
+    "checksum": "5ed67c2fb354c684421f130e7a9a0e5a"
+  },
+  {
+    "localName": "audio/music/24-GJLM_Monster_02.wav",
+    "serverName": "audio/music/24-GJLM_Monster_02.wav",
+    "checksum": "c44c0f5f6fad741d990c5f85f715189f"
+  },
+  {
+    "localName": "audio/music/24-GJLM_Monster_03.wav",
+    "serverName": "audio/music/24-GJLM_Monster_03.wav",
+    "checksum": "b2a77d9627a40e50b331f891dfc92ca0"
+  },
+  {
+    "localName": "gfx/structures/echoesofeco_tree_sheet.png",
+    "serverName": "gfx/structures/echoesofeco_tree_sheet.png",
+    "checksum": "e565c96831a8bc1ee495d855f900b9e6"
+  },
+  {
+    "localName": "xml_bin/echoesofeco_star_tree.bin",
+    "serverName": "xml_bin/echoesofeco_star_tree.bin",
+    "checksum": "db9fe252ea266531f2f5cb4028771cd5"
+  },
+  {
+    "localName": "xml_resources/echoesofeco_tree_sheet.xml",
+    "serverName": "xml_resources/echoesofeco_tree_sheet.xml",
+    "checksum": "eab665cc12ed24aaee7ed680485d05b6"
+  },
+  {
+    "localName": "text/de.utf8",
+    "serverName": "text/de.utf8",
+    "checksum": "3bf1ea0bd149a1b197daccc6d5460b4f"
+  },
+  {
+    "localName": "text/en.utf8",
+    "serverName": "text/en.utf8",
+    "checksum": "4ed193993d0b8009976a12e48052049d"
+  },
+  {
+    "localName": "text/es.utf8",
+    "serverName": "text/es.utf8",
+    "checksum": "3a5b3d75bba1ddb33ac2a01f62426154"
+  },
+  {
+    "localName": "text/fr.utf8",
+    "serverName": "text/fr.utf8",
+    "checksum": "b6475dc4fe2cd6c84db908e3344a1746"
+  },
+  {
+    "localName": "text/it.utf8",
+    "serverName": "text/it.utf8",
+    "checksum": "b3f33ad609d32614b7e758d4361feea7"
+  },
+  {
+    "localName": "text/ja.utf8",
+    "serverName": "text/ja.utf8",
+    "checksum": "8980a43e8df3d9c382b3c4647fe39e0d"
+  },
+  {
+    "localName": "text/pt.utf8",
+    "serverName": "text/pt.utf8",
+    "checksum": "92799c210f3606487c27481a8fc4b4ea"
+  },
+  {
+    "localName": "text/ru.utf8",
+    "serverName": "text/ru.utf8",
+    "checksum": "faaeccae4b201534ed513c53aa03ec21"
+  },
+  {
+    "localName": "text/tr.utf8",
+    "serverName": "text/tr.utf8",
+    "checksum": "42d5a39a857a2e339a99c11fca970198"
+  }
+]
